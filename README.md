@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NikolozMaghaldadze
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning HTML & CSS & JS + Angular
-- 💞️ I’m looking to collaborate on: gmail or social media
 - 📫 How to reach me: Gmail:nikamaghaldadze13@gmail.com
 
 <!---
