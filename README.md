@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikolozMaghaldadze
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning HTML & CSS & JS + Angular
-- 📫 How to reach me: Gmail:nikamaghaldadze13@gmail.com
+- 📫 Gmail: nikamaghaldadze13@gmail.com
 
 <!---
 NikolozMaghaldadze/NikolozMaghaldadze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
