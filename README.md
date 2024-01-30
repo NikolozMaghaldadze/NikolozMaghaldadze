@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nika Maghaldadze</h1>
-<h3 align="center">A passionate frontend developer from Georgia.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4000&pause=500&background=FF000000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Front-end+developer+from+Georgia+" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
