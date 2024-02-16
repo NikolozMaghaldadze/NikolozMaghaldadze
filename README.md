@@ -3,12 +3,13 @@
 <img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="730" align="center">
 </div>
 <!-- !GIF end -->
-<h1 align="center">I'm Nika Maghaldadze <img src="./images/codedex-bot-logo.gif" width="50" height="50" /></h1>
+<h1 align="center"><img src="./images/codedex-bot-logo.gif" width="50" height="50" />I'm Nika Maghaldadze </h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
 <div align="start">
 
 🌍  I'm from Tbilisi,Georgia</br>
-✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)</br>
+
+<h1>✉️  You can contact me at **nikamaghaldadze13@gmail.com**</h1></br>
 🧠  I'm learning Angular </br>
 Reactive programming with RxJS</br>
 Angular Material for UI design</br>
