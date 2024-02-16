@@ -1,4 +1,4 @@
-# My name is Nika [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# My name is Nika [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) !
 
 🌍  I'm based in Tbilisi,Georgia</br>
 ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)</br>
