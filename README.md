@@ -11,13 +11,15 @@
 </br>
 
 ✉️  You can contact me at **nikamaghaldadze13@gmail.com**</br>
-📚  I'm learning Angular</br>
-Reactive programming with RxJS</br>
-Angular Material for UI design</br>
-State management with NgRx</br>
-Progressive Web Applications (PWAs) and service workers
-Testing Angular applications effectively
+📚  I'm learning :</br>
 
+<p>
+    -Angular
+    -Reactive programming with RxJS</br>
+    -Angular Material for UI design</br>
+    -State management with NgRx</br>
+    -Progressive Web Applications (PWAs)
+</p>
 </h2>
 </div>
 
