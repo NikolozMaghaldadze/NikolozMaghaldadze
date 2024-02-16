@@ -25,7 +25,4 @@
 <a href="http://www.github.com/NikolozMaghaldadze"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolozMaghaldadze&stroke=3382ed&background=181824&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="https://github.com/NikolozMaghaldadze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozMaghaldadze&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/NikolozMaghaldadze/UnilabDictionary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=UnilabDictionary&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
