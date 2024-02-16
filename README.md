@@ -4,7 +4,7 @@
 </div>
 <!-- !GIF end -->
 <h1 align="center"><img src="./images/codedex-bot-logo.gif" width="50" height="50" />    I'm Nika Maghaldadze </h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=635&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=500&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
 <div align="start">
 
 <h2>🌍  I'm from Tbilisi,Georgia
