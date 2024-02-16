@@ -14,7 +14,7 @@
 
 <h3>
 📚  I'm learning :</br>
-    -Angular
+    -Angular</br>
     -Reactive programming with RxJS</br>
     -Angular Material for UI design</br>
     -State management with NgRx</br>
