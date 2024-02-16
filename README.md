@@ -6,8 +6,8 @@
  <div align="center">
  <h1 align="center">I'm Nika Maghaldadze</h1>
  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=576&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
-<div align="start">
  </div>
+<div align="start">
 
 <h2>🌍  I'm from Tbilisi,Georgia
 </br>
