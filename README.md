@@ -7,10 +7,12 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
 <div align="start">
 
-🌍  I'm from Tbilisi,Georgia</br>
+<h4>🌍  I'm from Tbilisi,Georgia</h4>
+</br>
 
-<h1>✉️  You can contact me at **nikamaghaldadze13@gmail.com**</h1></br>
-🧠  I'm learning Angular </br>
+<h4>✉️  You can contact me at **nikamaghaldadze13@gmail.com**</h4></br>
+<h4>📚  I'm learning Angular</h4>
+ </br>
 Reactive programming with RxJS</br>
 Angular Material for UI design</br>
 State management with NgRx</br>
