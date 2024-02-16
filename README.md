@@ -2,10 +2,10 @@
 
 🌍  I'm based in Tbilisi,Georgia
 ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)
-🧠  I'm learning Angular
-Reactive programming with RxJS
-Angular Material for UI design
-State management with NgRx
+🧠  I'm learning Angular </br>
+Reactive programming with RxJS</br>
+Angular Material for UI design</br>
+State management with NgRx</br>
 Progressive Web Applications (PWAs) and service workers
 Testing Angular applications effectively
 
