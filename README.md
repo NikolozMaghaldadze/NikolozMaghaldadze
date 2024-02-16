@@ -9,17 +9,15 @@
 
 <h2>🌍  I'm from Tbilisi,Georgia</h2>
 </br>
+✉️  You can contact me at **nikamaghaldadze13@gmail.com**</br>
 
-<h2>✉️  You can contact me at **nikamaghaldadze13@gmail.com**</h2></br>
-<h2>
 📚  I'm learning Angular</br>
 Reactive programming with RxJS</br>
 Angular Material for UI design</br>
 State management with NgRx</br>
 Progressive Web Applications (PWAs) and service workers
 Testing Angular applications effectively
-</h2>
- 
+
 </div>
 
 # 🌐 Socials:
