@@ -1,6 +1,11 @@
-# My name is Nika [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) !
+<!-- ! GIF start -->
+<div align="center">
+<img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="430" align="center">
+</div>
+<!-- !GIF end -->
+<div align="start">
 
-🌍  I'm based in Tbilisi,Georgia</br>
+🌍  I'm from Tbilisi,Georgia</br>
 ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)</br>
 🧠  I'm learning Angular </br>
 Reactive programming with RxJS</br>
@@ -8,7 +13,8 @@ Angular Material for UI design</br>
 State management with NgRx</br>
 Progressive Web Applications (PWAs) and service workers
 Testing Angular applications effectively
-<br><br>Looking for Help With 🤝<br>While I'm proficient in Angular, there's always more to learn. Here are a few areas where I'm currently seeking assistance and eager to deepen my understanding:<br><br>Advanced Angular techniques and best practices<br>Optimizing performance in Angular applications<br>Integrating Angular with other technologies and frameworks<br>Front-end architecture and design patterns<br>Building scalable and maintainable web applications<br>If you're knowledgeable in any of these areas and willing to share your expertise, I'd love to hear from you! Let's learn together and push the boundaries of what we can achieve with Angular.<br><br>
+
+</div>
 
 # 🌐 Socials:
 
