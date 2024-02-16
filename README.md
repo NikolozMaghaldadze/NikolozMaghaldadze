@@ -1,6 +1,14 @@
 # 💫 About Me:
 
-👋 Hey there! Welcome to my GitHub profile! I'm a passionate front-end developer with a focus on Angular. Constantly learning and evolving in this fast-paced industry, I'm always on the lookout for exciting collaborations and opportunities to expand my skills.<br><br>Collaborations 💼<br>I'm a firm believer in the power of collaboration. Working with like-minded individuals not only fosters creativity but also accelerates personal and professional growth. Whether it's contributing to open-source projects, collaborating on innovative web applications, or simply exchanging ideas, I'm always eager to connect with fellow developers.<br><br>If you have a project that could use an Angular enthusiast or if you're looking for someone to bounce ideas off of, feel free to reach out! Let's collaborate and create something amazing together.<br><br>Looking for Help With 🤝<br>While I'm proficient in Angular, there's always more to learn. Here are a few areas where I'm currently seeking assistance and eager to deepen my understanding:<br><br>Advanced Angular techniques and best practices<br>Optimizing performance in Angular applications<br>Integrating Angular with other technologies and frameworks<br>Front-end architecture and design patterns<br>Building scalable and maintainable web applications<br>If you're knowledgeable in any of these areas and willing to share your expertise, I'd love to hear from you! Let's learn together and push the boundaries of what we can achieve with Angular.<br><br>I'm Learning 📚<br>Learning is a lifelong journey, and I'm committed to continuous improvement. Here are some topics that currently pique my interest and that I'm actively exploring:<br><br>Reactive programming with RxJS<br>Angular Material for UI design<br>State management with NgRx<br>Progressive Web Applications (PWAs) and service workers<br>Testing Angular applications effectively<br>If you're passionate about any of these subjects or have valuable resources to share, I'd love to connect and exchange knowledge. Let's grow together and master these topics!
+# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hey there! My name is Nika
+
+## Front-End Developer
+
+- 🌍  I'm based in Tbilisi,Georgia
+- ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)
+- 🧠  I'm learning Angular
+
+! Welcome to my GitHub profile! I'm a passionate front-end developer with a focus on Angular. Constantly learning and evolving in this fast-paced industry, I'm always on the lookout for exciting collaborations and opportunities to expand my skills.<br><br>Collaborations 💼<br>I'm a firm believer in the power of collaboration. Working with like-minded individuals not only fosters creativity but also accelerates personal and professional growth. Whether it's contributing to open-source projects, collaborating on innovative web applications, or simply exchanging ideas, I'm always eager to connect with fellow developers.<br><br>If you have a project that could use an Angular enthusiast or if you're looking for someone to bounce ideas off of, feel free to reach out! Let's collaborate and create something amazing together.<br><br>Looking for Help With 🤝<br>While I'm proficient in Angular, there's always more to learn. Here are a few areas where I'm currently seeking assistance and eager to deepen my understanding:<br><br>Advanced Angular techniques and best practices<br>Optimizing performance in Angular applications<br>Integrating Angular with other technologies and frameworks<br>Front-end architecture and design patterns<br>Building scalable and maintainable web applications<br>If you're knowledgeable in any of these areas and willing to share your expertise, I'd love to hear from you! Let's learn together and push the boundaries of what we can achieve with Angular.<br><br>I'm Learning 📚<br>Learning is a lifelong journey, and I'm committed to continuous improvement. Here are some topics that currently pique my interest and that I'm actively exploring:<br><br>Reactive programming with RxJS<br>Angular Material for UI design<br>State management with NgRx<br>Progressive Web Applications (PWAs) and service workers<br>Testing Angular applications effectively<br>If you're passionate about any of these subjects or have valuable resources to share, I'd love to connect and exchange knowledge. Let's grow together and master these topics!
 
 ## 🌐 Socials:
 
@@ -21,17 +29,3 @@
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/NikolozMaghaldadze/UnilabDictionary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=UnilabDictionary&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nika
-
-## Front-End Developer
-
-- 🌍  I'm based in Tbilisi,Georgia
-- ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)
-- 🧠  I'm learning Angular
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/NikolozMaghaldadze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
