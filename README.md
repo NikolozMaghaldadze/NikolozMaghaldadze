@@ -3,10 +3,11 @@
 <img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="550" align="center">
 </div>
 <!-- !GIF end -->
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=5000&pause=7000&center=true&vCenter=true&random=false&width=735&lines=I'm+Nika+Maghaldadze" alt="Typing SVG" /></a>
-
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=576&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
+ <div align="center">
+ <h1 align="center">I'm Nika Maghaldadze</h1>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&random=false&width=576&lines=Front-end+developer+from+Georgia" alt="Typing SVG" /></a></p>
 <div align="start">
+ </div>
 
 <h2>🌍  I'm from Tbilisi,Georgia
 </br>
