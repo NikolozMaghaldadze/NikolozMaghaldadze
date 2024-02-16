@@ -36,6 +36,7 @@
 <br /><br />
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/NikolozMaghaldadze/UnilabDictionary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=UnilabDictionary&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/NikolozMaghaldadze/UnilabDictionary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=UnilabDictionary&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
-<!-- <a href="https://github.com/NikolozMaghaldadze/Gultmisani" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=Gultmisani&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a> -->
+<a href="https://github.com/NikolozMaghaldadze/Gultmisani" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=Gultmisani&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a>
+<br /><br /><br /><br /><br /><br /><br />
