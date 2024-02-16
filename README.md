@@ -17,3 +17,29 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozMaghaldadze&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nika
+
+## Front-End Developer
+
+- 🌍  I'm based in Tbilisi,Georgia
+- ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)
+- 🧠  I'm learning Angular
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/NikolozMaghaldadze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/NikolozMaghaldadze"><img src="https://github-readme-stats.vercel.app/api?username=NikolozMaghaldadze&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="NikolozMaghaldadze's GitHub stats" /></a>
+
+<a href="http://www.github.com/NikolozMaghaldadze"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikolozMaghaldadze&stroke=3382ed&background=181824&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+<a href="https://github.com/NikolozMaghaldadze" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolozMaghaldadze&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/NikolozMaghaldadze/UnilabDictionary" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NikolozMaghaldadze&repo=UnilabDictionary&title_color=ef4444&text_color=3382ed&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
