@@ -1,6 +1,6 @@
 <!-- ! GIF start -->
 <div align="center">
-<img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="630" align="center">
+<img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="550" align="center">
 </div>
 <!-- !GIF end -->
 <h1 align="center"><img src="./images/codedex-bot-logo.gif" width="50" height="50" />    I'm Nika Maghaldadze </h1>
