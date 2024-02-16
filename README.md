@@ -1,6 +1,6 @@
 <!-- ! GIF start -->
 <div align="center">
-<img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="730" align="center">
+<img src="./images/tumblr_mgsdk6pxdb1rp0vkjo1_500.gif" width="630" align="center">
 </div>
 <!-- !GIF end -->
 <h1 align="center"><img src="./images/codedex-bot-logo.gif" width="50" height="50" />I'm Nika Maghaldadze </h1>
@@ -11,7 +11,6 @@
 </br>
 
 ✉️  You can contact me at **nikamaghaldadze13@gmail.com**</br>
-
 📚  I'm learning Angular</br>
 Reactive programming with RxJS</br>
 Angular Material for UI design</br>
