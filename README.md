@@ -1,4 +1,4 @@
-# [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nika
+# My name is Nika [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 🌍  I'm based in Tbilisi,Georgia</br>
 ✉️  You can contact me at [nikamaghaldadze13@gmail.com](mailto:nikamaghaldadze13@gmail.com)</br>
@@ -8,8 +8,7 @@ Angular Material for UI design</br>
 State management with NgRx</br>
 Progressive Web Applications (PWAs) and service workers
 Testing Angular applications effectively
-
-! Welcome to my GitHub profile! I'm a passionate front-end developer with a focus on Angular. Constantly learning and evolving in this fast-paced industry, I'm always on the lookout for exciting collaborations and opportunities to expand my skills.<br><br>Looking for Help With 🤝<br>While I'm proficient in Angular, there's always more to learn. Here are a few areas where I'm currently seeking assistance and eager to deepen my understanding:<br><br>Advanced Angular techniques and best practices<br>Optimizing performance in Angular applications<br>Integrating Angular with other technologies and frameworks<br>Front-end architecture and design patterns<br>Building scalable and maintainable web applications<br>If you're knowledgeable in any of these areas and willing to share your expertise, I'd love to hear from you! Let's learn together and push the boundaries of what we can achieve with Angular.<br><br>I'm Learning 📚<br>Learning is a lifelong journey, and I'm committed to continuous improvement.
+<br><br>Looking for Help With 🤝<br>While I'm proficient in Angular, there's always more to learn. Here are a few areas where I'm currently seeking assistance and eager to deepen my understanding:<br><br>Advanced Angular techniques and best practices<br>Optimizing performance in Angular applications<br>Integrating Angular with other technologies and frameworks<br>Front-end architecture and design patterns<br>Building scalable and maintainable web applications<br>If you're knowledgeable in any of these areas and willing to share your expertise, I'd love to hear from you! Let's learn together and push the boundaries of what we can achieve with Angular.<br><br>
 
 # 🌐 Socials:
 
